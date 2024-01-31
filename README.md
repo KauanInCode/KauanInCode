@@ -82,13 +82,13 @@ dados.
 <br/>
 
 <div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanProg&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauanProg&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="KauanProg github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanInCode&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KauanInCode&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="KauanInCode github stats" /> 
 </div><br>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KauanProg}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KauanInCode}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003A88&height=120&section=footer"/>
